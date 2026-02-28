@@ -1,0 +1,26 @@
+\documentclass{article}
+\usepackage{amsmath,amssymb}
+
+\begin{document}
+
+\section*{Transcript Capacity Lower Bound}
+
+Let $(T_t)$ be a transcript process satisfying:
+
+\[
+I(W;T_{t+1}\mid T_t) \le b(n).
+\]
+
+Then:
+
+\[
+I(W;T_T) \le T \cdot b(n).
+\]
+
+If correctness requires $I(W;T_T) \ge \gamma H(W)$, then:
+
+\[
+T \ge \frac{\gamma H(W)}{b(n)}.
+\]
+
+\end{document}

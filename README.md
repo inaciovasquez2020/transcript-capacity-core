@@ -1,2 +1,8 @@
+# Transcript Capacity Invariant (Core)
 
-Core invariant defined at: https://github.com/<your-core-repo>
+This repository contains the canonical load-bearing invariant:
+
+Bounded local information acquisition cannot amplify global structural
+information beyond transcript capacity.
+
+This is the minimal law. All applications live elsewhere.
