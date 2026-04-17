@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "transcript-capacity-core"
+message: "If you use this repository, please cite it using this metadata."
+type: software
+authors:
+  - family-names: "Vasquez"
+    given-names: "Inacio"
+repository-code: "https://github.com/inaciovasquez2020/transcript-capacity-core"
+license: "MIT"
