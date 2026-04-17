@@ -7,6 +7,7 @@ def test_surface_files():
         "README.md",
         "STATUS.md",
         "FREEZE.md",
+        "CITATION.cff",
         ".gitignore",
         ".github/workflows/canonical-surface.yml",
     ]
